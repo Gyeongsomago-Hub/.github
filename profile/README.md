@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team 4
+* 이승찬 - (팀장), 문서작업
+* 김신우 - 디자인, 프론트
+* 구본윤 - 디자인보조, 프론트보조
+* 이수환 - 백엔드(api)
+---
+##학교 학생들이 공부와 프로젝트 진행을 잘 할 수 있도록 도와주는 웹 프로그램 입니다!
